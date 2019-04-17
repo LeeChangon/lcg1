@@ -7,6 +7,6 @@ using namespace std;
 
 int main()
 {
-    cout << "gitgit \nbranch\n"; 
+    cout << "gitgit \nmaster\n"; 
 }
 
