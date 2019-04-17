@@ -7,6 +7,12 @@ using namespace std;
 
 int main()
 {
+	int a;
     cout << "gitgit \nmaster\n"; 
+	cout << "enter num : ";
+	cin >> a;
+
+	cout << "num = " << a << endl;
+
 }
 
